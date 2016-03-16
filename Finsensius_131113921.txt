@@ -1,6 +1,8 @@
+=====================================
 Nama  : Finsensius Gurning
 Kelas : TP-B Pagi
 NIM   : 131113921
+=====================================
 
 Apakah anda setuju atau tidak dengan pendapat Turing?
 ==>Ya, karena turing mengatakan bahwa jika suatu perilaku sebuah mesin yang jika dikerjakan oleh manusia dan mampu memberikan keputusan merupakan hal yang cerdas. Kemampuan untuk problem solving adalah salah satu cara untuk mengukur kecerdasan dalam berbagai konteks. Terlihat di sini bahwa mesin cerdas akan diragukan untuk dapat melayani keperluan khusus jika tidak mampu menangani permasalahan remeh/kecil yang biasa dikerjakan orang secara rutin. 
