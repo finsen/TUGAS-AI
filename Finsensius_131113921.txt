@@ -1,1 +1,49 @@
-hfskhfkjahsdkfhkjsahdkfjhsdakfhkjsdhkjf
+Apakah anda setuju atau tidak dengan pendapat Turing?
+==>Ya, karena turing mengatakan bahwa jika suatu perilaku sebuah mesin yang jika dikerjakan oleh manusia dan mampu memberikan keputusan merupakan hal yang cerdas. Kemampuan untuk problem solving adalah salah satu cara untuk mengukur kecerdasan dalam berbagai konteks. Terlihat di sini bahwa mesin cerdas akan diragukan untuk dapat melayani keperluan khusus jika tidak mampu menangani permasalahan remeh/kecil yang biasa dikerjakan orang secara rutin. 
+
+Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
+==>Ada, karena manusia terus mengembangkan komputer untuk lebih kompeten dan efisien. Sehingga suatu saat nanti akan ada komputer melewati tes turing
+Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
+-Kurangnya alat yang dapat mengembangkan komputer
+-Sumber daya manusia yang mampu melebihi kemampuan Turing
+-Susahnya menambahkan logika komputer pada saat ini
+
+
+•	Pengolahan Bahasa Alami 
+
+Natural Language Processing (NLP) adalah salah satu bidang ilmu komputer, kecerdasan buatan, dan bahasa (linguistik) yang berkaitan dengan interaksi antara komputer dan bahasa alami manusia, seperti bahasa Indonesia atau bahasa Inggris. Tujuan utama dari studi NLP adalah membuat mesin yang mampu mengerti dan memahami makna bahasa manusia lalu memberikan respon yang sesuai. Sebuah Natural Language System harus memperhatikan pengetahuan terhadap bahasa itu sendiri, baik dari segi kata yang digunakan, bagaimana kata - kata tersebut digabung untuk menghasilkan suatu kalimat, apa arti sebuah kata, apa fungsi sebuah kata dalam sebuah kalimat dan sebagainya. Akan tetapi kita juga harus mempertimbangkan ada satu hal lagi yang sangat berperan dalam bahasa, yaitu kemampuan manusia untuk mengerti dan kemampuan untuk itu didapat dari pengetahuan yang didapat secara terus menerus sewaktu hidup. 
+Contonya adalah seperti penerjemah bahasa, chatting dengan komputer, meringkas satu bacaan yang panjang, pengecekan grammar dan lain sebagainya.
+ 
+
+•	Knowledge representation 
+
+Adalah suatu proses untuk menagkap sifat-sifat penting problema dan membuat informasi tersebut dapat diakses oleh prosedur pemecahan masalah. Bahasa reprensentasi harus dapat membuat seorang pemrogram mampu mengekspresikan pengetahuan yang diperlukan untuk mendapatkan solusi permasalahn
+Contohnya sederha fakta adalah sebagai berikut helder adalah anjing. Fakta tersebut dapat dipresentasikan secara logika yaitu anjing(helder)
+
+•	Automated Reasoning 
+
+Setelah Pengetahuan yg disusun dalam sebuah kumpulan ekspresi direpresentasikan dalam sebuah susunan predicate logic, maka dilakukan inferensi, yaitu proses berupa perbandingan, kombinasi dan transformasi dari susunan predicate logic tersebut ke dalam suatu susunan deduktif yaitu kesimpulan atau aksi.Automated reasoning adalah pengambilan kesimpulan secara otomatis berdasarkan fakta dan aturan yang ada dengan melakukan inferensi pada susunan predicate logic.Dengan kata lain, sistem berbasis pengetahuan melakukan reasoning secara otomatis (automated reasoning)
+Contonya : Di sebuah ruangan terdapat seekor monyet, sebuah kursi dan sebuah pisang yang tergantung di langit-langit. Pisang tersebut dapat di capai oleh monyet tersebut hanya apabila monyet tersebut menaiki kursi yang diletakkan dibawah pisang yg tergantung tersebut.
+Representasikan situasi diatas dengan predicate logic dan lakukan inferensi sehingga dapat diambil kesimpulan bahwa monyet dapat mencapai pisang
+
+•	Machine Learning 
+
+Adalah salah satu displin ilmu dari computer Science yang mempelajari bagaimana membuat komputer atau mesin itu mempunyai kecerdasan. Agar mempunyai kecerdasan dan ilmu cabang dari kecerdasan buatan yang mempelajari bagaimana caranya belajar dari data
+Contohnya
+Bidang kedokteran: bagaimana mendeteksi penyakit seseorang dari gejala-gejala yang ada, atau deteksi apakah seseorang mengidap penyakit jantung dari rekaman elektrokardiogram, dan mencari tahu gen yang terlibat pada penyakit kanker.
+Bidang computer vision: menemukan dan memberi label muka orang pada foto (seperti di facebook) atau face recognition, pengenalan tulisan tangan menjadi teks pada komputer atau handwriting recognition.
+
+•	Computer Vision
+
+Computer Vision adalah ilmu dan teknologi mesin yang melihat, di mana mesin mampu mengekstrak informasi dari gambar yang diperlukan untuk menyelesaikan tugas tertentu. Sebagai suatu disiplin ilmu, visi komputer berkaitan dengan teori di balik sistem buatan bahwa ekstrak informasi dari gambar. Data gambar dapat mengambil banyak bentuk, seperti urutan video, pandangan dari beberapa kamera, atau data multi-dimensi dari scanner medis. Sedangkan sebagai disiplin teknologi, computer vision berusaha untuk menerapkan teori dan model untuk pembangunan sistem computer vision.
+Contohnya
+Beberapa aplikasi yang dihasilkan dari Computer Vision antara lain :
+1. Psychology, AI – exploring representation and computation in natural vision
+2. Optical Character Recognition – text reading
+3. Remote Sensing – land use and environmental monitoring
+4. Medical Image Analysis – measurement and interpretation of many types of images
+5. Industrial Inspection – measurement, fault checking, process control
+
+•	Robotika
+Robotika adalah satu cabang teknologi yang berhubungan dengan desain, konstruksi, operasi, disposisi struktural, pembuatan, dan aplikasi darirobot. Robotika terkait dengan ilmu pengetahuan bidang elektronika, mesin, mekanika, dan perangkat lunak komputer.
+Contohnya Beberapa  Aplikasi Mikrokontroler
