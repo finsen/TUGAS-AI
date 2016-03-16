@@ -3,6 +3,7 @@ Apakah anda setuju atau tidak dengan pendapat Turing?
 
 Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
 ==>Ada, karena manusia terus mengembangkan komputer untuk lebih kompeten dan efisien. Sehingga suatu saat nanti akan ada komputer melewati tes turing
+
 Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
 -Kurangnya alat yang dapat mengembangkan komputer
 -Sumber daya manusia yang mampu melebihi kemampuan Turing
